@@ -2,6 +2,7 @@
 A project ultilize YOLOv8 model to detect and censor NSFW parts inside image and video
 
 In this project i used 18 classes:
+<br>
 labels = [
   "FEMALE_GENITALIA_COVERED",
   "FACE_FEMALE",
