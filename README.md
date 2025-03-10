@@ -1,4 +1,4 @@
-### Inapropriate-detection
+# Inapropriate-content-detection
 A project ultilize YOLOv8 model to detect and censor NSFW parts inside image and video
 
 In this project i used 18 classes:
@@ -52,7 +52,7 @@ yarn build
 The main model used in this project is YOLOv8n.onnx
 > :warning: You can use another YOLOv8 model for this repo, however it may cause memory problems when run on your local browser.
 
-# How to use another YOLOv8 model.
+## How to use another YOLOv8 model.
 
 1. Export YOLOv8 model to onnx format.
 
